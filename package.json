@@ -84,7 +84,7 @@
     "js-string-escape": "^1.0.1",
     "jsonpath-plus": "^0.16.0",
     "lodash": "^4.17.4",
-    "velocityjs": "^0.9.3"
+    "velocityjs": "^0.10.1"
   },
   "devDependencies": {
     "chai": "^3.5.0",
